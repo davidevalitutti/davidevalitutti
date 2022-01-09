@@ -4,11 +4,11 @@ I’m a IT enthusiast, creative and curious with a hands-on approach to problem-
 
 ##### [](https://github.com/davidevalitutti/#now)NOW
 
-- 💻 Computer Science student
+- 🧑‍🎓 Computer Science student
 - 🚀 CTF Player on [TryHackMe](https://tryhackme.com/)
 
 ##### [](https://github.com/davidevalitutti/#bio)BIO
 
-- 🔭 I'm currently studying Computer Science at **Parthenope University**
+- 🧑‍🎓 I'm currently studying Computer Science at [Parthenope University](https://www.uniparthenope.it/)
 - 🌱 Learning all about **Ethical Hacking**
 - 📫 How to reach me: [linkedin/davide-valitutti](https://linkedin/davide-valitutti)
