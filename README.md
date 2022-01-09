@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Davide👋
 
-<!--
-**davidevalitutti/davidevalitutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a IT enthusiast, creative and curious with a hands-on approach to problem-solving. Anything and everything that can be classified as technology fascinates me. My interests and work range from Ethical Hacking and Software Development. I'm always open to new ideas and opportunities.
 
-Here are some ideas to get you started:
+##### [](https://github.com/davidevalitutti/#now)NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Computer Science student
+- 🚀 CTF Player on [TryHackMe](https://tryhackme.com/)
+
+##### [](https://github.com/davidevalitutti/#bio)BIO
+
+- 🔭 I'm currently studying Computer Science at **Parthenope University**
+- 🌱 Learning all about **Ethical Hacking**
+- 📫 How to reach me: [linkedin/davide-valitutti](https://linkedin/davide-valitutti)
