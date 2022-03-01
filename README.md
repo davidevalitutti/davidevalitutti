@@ -6,6 +6,8 @@ I’m a IT enthusiast, creative and curious with a hands-on approach to problem-
 
 - 🧑‍🎓 Computer Science student
 - 🚀 CTF Player on [TryHackMe](https://tryhackme.com/)
+- CTF Player on [HackTheBox](https://app.hackthebox.com)
+- Student on Academy from [HackTheBox](https://academy.hackthebox.com)
 
 ##### [](https://github.com/davidevalitutti/#bio)BIO
 
