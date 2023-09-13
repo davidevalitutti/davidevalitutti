@@ -5,12 +5,10 @@ I’m a IT enthusiast, creative and curious with a hands-on approach to problem-
 ##### [](https://github.com/davidevalitutti/#now)NOW
 
 - 🧑‍🎓 Computer Science student
-- 🚀 CTF Player on [TryHackMe](https://tryhackme.com/)
-- CTF Player on [HackTheBox](https://app.hackthebox.com)
-- Student on Academy from [HackTheBox](https://academy.hackthebox.com)
+- Pro Hacker [HackTheBox](https://academy.hackthebox.com)
 
 ##### [](https://github.com/davidevalitutti/#bio)BIO
 
-- 🧑‍🎓 I'm currently studying Computer Science at [Parthenope University](https://www.uniparthenope.it/)
+- 🧑‍🎓 I'm currently working as Cyber Security Analyst at [Deloitte](https://www2.deloitte.com/)
 - 🌱 Learning all about **Ethical Hacking**
 - 📫 How to reach me: [linkedin/davide-valitutti](https://linkedin/davide-valitutti)
