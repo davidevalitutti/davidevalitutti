@@ -5,10 +5,11 @@ I’m a IT enthusiast, creative and curious with a hands-on approach to problem-
 ##### [](https://github.com/davidevalitutti/#now)NOW
 
 - 🧑‍🎓 Computer Science student
-- Pro Hacker [HackTheBox](https://academy.hackthebox.com)
+
 
 ##### [](https://github.com/davidevalitutti/#bio)BIO
 
 - 🧑‍🎓 I'm currently working as Cyber Security Analyst at [Deloitte](https://www2.deloitte.com/)
 - 🌱 Learning all about **Ethical Hacking**
+- Pro Hacker on [HackTheBox](https://app.hackthebox.com)
 - 📫 How to reach me: [linkedin/davide-valitutti](https://linkedin/davide-valitutti)
